@@ -1,4 +1,4 @@
-Hi, I'm Yuri 👋
+Hi, I'm Yurii 👋
 
 Backend Java Developer
 
@@ -15,5 +15,5 @@ Featured Projects:
 - Spring Boot Authentication Service
 
 Contact:
-LinkedIn
-Email
+LinkedIn - https://www.linkedin.com/in/yurii-suprun/
+Email - iursuprun@gmail.com
