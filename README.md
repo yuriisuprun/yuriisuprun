@@ -3,7 +3,7 @@ Hi, I'm Yurii 👋
 Backend Java Developer
 
 I build scalable backend systems using:
-Java • Spring Boot • PostgreSQL • Docker • REST APIs
+Java • Spring Boot • PostgreSQL • Docker • REST APIs • Other cutting age technologies
 
 Currently working on:
 - Java microservices architecture
