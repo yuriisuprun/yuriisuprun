@@ -1,16 +1,19 @@
-## Hi there 👋
+Hi, I'm Yuri 👋
 
-<!--
-**yuriisuprun/yuriisuprun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend Java Developer
 
-Here are some ideas to get you started:
+I build scalable backend systems using:
+Java • Spring Boot • PostgreSQL • Docker • REST APIs
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently working on:
+- Java microservices architecture
+- Event-driven backend systems
+
+Featured Projects:
+- Task Manager API
+- Distributed Job Queue
+- Spring Boot Authentication Service
+
+Contact:
+LinkedIn
+Email
