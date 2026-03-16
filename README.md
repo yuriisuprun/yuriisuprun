@@ -24,7 +24,5 @@ monolith-to-microservices
 **Connect**
 
 LinkedIn: https://www.linkedin.com/in/yurii‑suprun/
-
-Email: iursuprun@gmail.com
-
 GitHub: https://github.com/yuriisuprun
+Email: iursuprun@gmail.com
