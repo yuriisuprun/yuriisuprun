@@ -6,7 +6,7 @@ Senior Backend Engineer | Java & Spring Boot | Microservices & REST APIs
 
 Building scalable, maintainable backend systems with clean architecture and distributed design. Passionate about microservices, event-driven systems, and cloud-native development.
 
-**Tech Stack
+**Tech Stack**
 
 Java | Spring Boot | PostgreSQL | REST | Docker | Microservices | CI/CD
 
