@@ -1,6 +1,4 @@
-# Yurii Suprun
-
-Senior Backend Engineer  
+# Yurii Suprun - Senior Backend Engineer  
 Java · Spring Boot · Microservices · REST APIs  
 
 ---
