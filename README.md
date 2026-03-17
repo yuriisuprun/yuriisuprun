@@ -1,28 +1,37 @@
-**Hi, I'm Yurii**
+# Yurii Suprun
 
-Senior Backend Engineer | Java & Spring Boot | Microservices & REST APIs
+Senior Backend Engineer  
+Java · Spring Boot · Microservices · REST APIs  
 
-**About Me**
+---
 
-Building scalable, maintainable backend systems with clean architecture and distributed design. Passionate about microservices, event-driven systems, and cloud-native development.
+## About
 
-**Tech Stack**
+I design and build scalable backend systems with a focus on clean architecture and distributed systems.
 
-Java | Spring Boot | PostgreSQL | REST | Docker | Microservices | CI/CD
+Experienced in:
+- Microservices & event-driven architecture  
+- API design & system integration  
+- Cloud-native development  
 
-**Featured Projects**
+---
 
-comment-sender
- – automated comment workflow service
+## Tech
 
-bookmark-keeper
- – RESTful bookmark management API
+Java · Spring Boot · PostgreSQL · Docker · REST · CI/CD  
 
-monolith-to-microservices
- – microservices migration examples
+---
 
-**Connect**
+## Projects
 
-LinkedIn: https://www.linkedin.com/in/yurii‑suprun/
-GitHub: https://github.com/yuriisuprun
-Email: iursuprun@gmail.com
+**comment-sender** — automated comment workflow service  
+**bookmark-keeper** — REST API for bookmark management  
+**monolith-to-microservices** — migration patterns & examples  
+
+---
+
+## Contact
+
+LinkedIn → https://www.linkedin.com/in/yurii-suprun/  
+GitHub → https://github.com/yuriisuprun  
+Email → iursuprun@gmail.com
