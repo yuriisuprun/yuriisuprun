@@ -7,7 +7,7 @@ I design and build scalable backend systems with a focus on clean architecture a
 
 ## Tech
 
-Java · Spring Boot · PostgreSQL · Docker · REST · CI/CD · Java · Spring Boot · Microservices · REST APIs · AWS · React · Vie.js · Angular · Cloud-native development · system integration · event-driven architecture  
+Java · Spring Boot · PostgreSQL · Docker · CI/CD · Microservices · REST APIs · AWS · React · Vie.js · Angular · Cloud-native development · system integration · event-driven architecture  
 
 ## Contacts
 
