@@ -1,7 +1,5 @@
 # Yurii Suprun - Full Stack Engineer    
 
----
-
 ## About
 
 I design and build scalable backend systems with a focus on clean architecture and distributed systems.
