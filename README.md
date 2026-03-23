@@ -1,5 +1,4 @@
-# Yurii Suprun - Senior Backend Engineer  
-Java · Spring Boot · Microservices · REST APIs  
+# Yurii Suprun - Full Stack Engineer    
 
 ---
 
@@ -16,7 +15,7 @@ Experienced in:
 
 ## Tech
 
-Java · Spring Boot · PostgreSQL · Docker · REST · CI/CD  
+Java · Spring Boot · PostgreSQL · Docker · REST · CI/CD · Java · Spring Boot · Microservices · REST APIs · AWS · React · Vie.js · Angular  
 
 ---
 
