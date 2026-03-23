@@ -9,13 +9,9 @@ Experienced in:
 - API design & system integration  
 - Cloud-native development  
 
----
-
 ## Tech
 
 Java · Spring Boot · PostgreSQL · Docker · REST · CI/CD · Java · Spring Boot · Microservices · REST APIs · AWS · React · Vie.js · Angular  
-
----
 
 ## Projects
 
@@ -23,9 +19,7 @@ Java · Spring Boot · PostgreSQL · Docker · REST · CI/CD · Java · Spring B
 **bookmark-keeper** — REST API for bookmark management  
 **monolith-to-microservices** — migration patterns & examples  
 
----
-
-## Contact
+## Contacts
 
 LinkedIn → https://www.linkedin.com/in/yurii-suprun/  
 GitHub → https://github.com/yuriisuprun  
