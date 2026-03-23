@@ -9,12 +9,6 @@ I design and build scalable backend systems with a focus on clean architecture a
 
 Java · Spring Boot · PostgreSQL · Docker · REST · CI/CD · Java · Spring Boot · Microservices · REST APIs · AWS · React · Vie.js · Angular · Cloud-native development · system integration · event-driven architecture  
 
-## Projects
-
-**comment-sender** — automated comment workflow service  
-**bookmark-keeper** — REST API for bookmark management  
-**monolith-to-microservices** — migration patterns & examples  
-
 ## Contacts
 
 LinkedIn → https://www.linkedin.com/in/yurii-suprun/  
