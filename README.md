@@ -10,7 +10,7 @@ Backend:
  Java · Spring Boot · MySQL · PostgreSQL · Docker · Microservices · REST APIs
 
 Frontend:
- React · Vie.js · Angular
+ React · Vie.js · Angular · HTML · CSS
 
 Other:
  AWS · Cloud-native development · system integration · event-driven architecture · CI/CD
