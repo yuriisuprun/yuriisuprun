@@ -13,7 +13,7 @@ Frontend:
  React · Vie.js · Angular · HTML · CSS
 
 Other:
- AWS · Cloud-native development · system integration · event-driven architecture · CI/CD
+ AWS · Cloud-native development · System integration · Event-driven architecture · CI/CD
 
 ## Contacts
 
