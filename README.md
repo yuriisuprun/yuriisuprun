@@ -2,7 +2,7 @@
 
 ## About
 
-I design and build scalable backend systems with a focus on clean architecture and distributed systems.
+I design and build scalable backend systems with a strong focus on clean architecture, distributed systems, and the integration of AI-driven solutions. I have experience leveraging machine learning models and AI tools to enhance system capabilities.
  
 
 ## Tech
