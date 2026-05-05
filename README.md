@@ -7,7 +7,7 @@ I design and build scalable backend systems with a strong focus on clean archite
 
 ## Tech
 Backend:
- Java · Spring Boot · MySQL · PostgreSQL · Docker · Microservices · REST APIs
+ Java · Spring Boot · MySQL · PostgreSQL · Python · Docker · Microservices · REST APIs
 
 Frontend:
  React · Vie.js · Angular · HTML · CSS
