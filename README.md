@@ -14,9 +14,3 @@ Frontend:
 
 Other:
  AWS · Cloud-native development · System integration · Event-driven architecture · CI/CD · AI technologies
-
-## Contacts
-
-LinkedIn → https://www.linkedin.com/in/yurii-suprun/  
-GitHub → https://github.com/yuriisuprun  
-Email → iursuprun@gmail.com
